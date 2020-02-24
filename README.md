@@ -15,3 +15,8 @@
  * twitter link
  * link to jobs page for some stuff...
  * footer with email address, distributed, phone, etc... and the owl. easter egg.
+ * privacy policy
+ * data policy
+ * terms of use
+ * speed... speed up as fast as possible. page speed and JS and SVG
+
