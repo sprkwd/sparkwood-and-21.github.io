@@ -19,4 +19,4 @@
  * data policy
  * terms of use
  * speed... speed up as fast as possible. page speed and JS and SVG
-
+* phone number only visible on mobile view
