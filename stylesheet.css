@@ -1,0 +1,36 @@
+/* Sparkwood and 21 CSS File */
+
+@import "reset.css";
+@import "BebasNeue-Regular.ttf";
+
+/*
+import global reset
+mobile first
+then tablet
+then laptop
+then desktop
+then print function
+hide code for employment in here and a logo
+ has to be fast so minimised
+ probably have to play with SASS SCSS to make everything awesome.
+ */
+
+ @font-face {
+font-family: 'BebasNeue-Regular';
+src: url('BebasNeue-Regular.woff') format('woff');
+}
+
+ body {
+	font: 1.1em/1.45 Cambria, Georgia Pro, Georgia, serif;
+	font-variant-numeric: lining-nums;
+	color: #111;
+	background: hsl(30,90%,98%);
+	margin: 0; padding: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+
+h1 {
+	font-family: 'BebasNeue-Regular', Arial, sans-serif;
+}
