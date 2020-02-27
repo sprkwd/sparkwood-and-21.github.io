@@ -58,6 +58,10 @@ h1 {
 
 }
 
+a:visited {
+	color: #212121;
+}
+
 .sprkwd-header-highlight {
 	font: 1.2em/0.9 'BebasNeue-Regular', Arial, sans-serif;
 	color: #000;
