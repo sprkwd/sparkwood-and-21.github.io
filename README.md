@@ -4,19 +4,13 @@
  ## todo
 
  * smooth gradient background
- * centered readable column
- * svg logo
+
  * all the meta // opengraph ... etc
- * glow behind logo
- * nice clear header (bebas neue)?
+
  * clear large readable paragraph text
  * accessible everything
- * blog link
- * twitter link
  * link to jobs page for some stuff...
- * footer with email address, distributed, phone, etc... and the owl. easter egg.
- * privacy policy
- * data policy
- * terms of use
+  and the owl. easter egg.
+
  * speed... speed up as fast as possible. page speed and JS and SVG
 * phone number only visible on mobile view

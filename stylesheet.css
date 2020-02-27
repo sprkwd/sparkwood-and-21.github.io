@@ -19,19 +19,34 @@ font-family: 'BebasNeue-Regular';
 src: url('BebasNeue-Regular.woff') format('woff');
 }
 
- body {
+body {
 	font: 1.1em/1.45 Cambria, Georgia Pro, Georgia, serif;
 	font-variant-numeric: lining-nums;
 	color: #111;
-	background: #fff8f8;
+	background: #fff9ee;
 	margin: 0; padding: 0;
 	display: flex;
-	flex-direction: column;
+/*	flex-direction: column; */
+	height: 100%;
 }
 
 #sprkwd-container {
-	margin: 2%;
+	
+  margin-right: auto; /* 1 */
+  margin-left:  auto; /* 1 */
+
+  max-width: 800px; /* 2 */
+
+  padding-right: 10px; /* 3 */
+  padding-left:  10px; /* 3 */
+
 }
+
+
+/*main {
+	height: 50%;
+}*/
+
 
 #sprkwd-img {
 		padding: 2em 0;
@@ -49,23 +64,29 @@ h1 {
 }
 
 #sprkwd-lead {
-	font: 1.3em/1.2 Cambria, Georgia Pro, Georgia, serif;
+	font: 2em/1.2 Cambria, Georgia Pro, Georgia, serif;
 	padding: 2em 0;
+	color: #454545;
 }
 
 #sprkwd-lead a:link {
-	background-color: yellow;
+	background-color: #FFFF8D;
 	text-decoration: none;
 	color: inherit;
 	margin: 1px;
 }
 
 #sprkwd-lead a:hover {
-background-color: orange;
+background-color: #FFFF00;
 
 }
 
 footer {
-	font: 0.5em/0.9 Cambria, Georgia Pro, Georgia, serif;
-	color: grey;
+	font: 0.5em/1 Arial, sans-serif;
+	color: #B3A894;
+	padding-bottom: 10px;
+}
+
+footer a:link {
+	color: #8298B3;
 }
