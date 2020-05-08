@@ -7,7 +7,7 @@
 
  * all the meta // opengraph ... etc
 
- * clear large readable paragraph text
+
  * accessible everything
  * link to jobs page for some stuff...
   and the owl. easter egg.
