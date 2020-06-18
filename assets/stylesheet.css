@@ -74,15 +74,20 @@ a:visited {
 }
 
 #sprkwd-lead a:link {
-	background-color: #FFFF8D;
 	text-decoration: none;
-	color: inherit;
-	margin: 1px;
+	color: #ff8800;
 }
 
 #sprkwd-lead a:hover {
-background-color: #FFFF00;
+	color: #ff4500;
+}
 
+#sprkwd-lead a:visited {
+	color: #ff8800;
+}
+
+#image-sprkwd {
+	padding-top: 2em;
 }
 
 footer {
