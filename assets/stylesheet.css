@@ -111,12 +111,12 @@ a:visited {
 
 #image-sprkwd {
 	padding-top: 2em;
-	font: 1.8em/0.9 Arial, sans-serif;
+	font: 1.8em/0.9 'BebasNeue-Regular', Arial, sans-serif;
 	color: #454545;
 }
 
 footer {
-	font: 0.8em/1 Arial, sans-serif;
+	font: 0.8em/1 Cambria, Georgia Pro, Georgia, serif;
 	color: #888888;
 	padding-top: 1em;
 	padding-bottom: 10px;
