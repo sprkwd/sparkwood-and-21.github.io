@@ -1,6 +1,4 @@
 # sprkwd
- The slightly more sustainable and hand-crafted Sparkwood and 21 website. Currently hosted at https://sprkwd.github.io
+ A sustainable and hand-crafted SPRKWD website. SPRKWD makes tools that help people make games. 
+ Currently hosted at https://sprkwd.github.io and https://sprkwd.com
 
- ## todo
- 
- Follow along with the [Development of the Project](https://github.com/sprkwd/sprkwd.github.io/projects/1?fullscreen=true)
