@@ -1,5 +1,5 @@
 # sprkwd
- The slightly more sustainable and hand-crafted Sparkwood and 21 website. Duplicated at https://sprkwd.github.io and soon to be https://sprkwd.com
+ The slightly more sustainable and hand-crafted Sparkwood and 21 website. Currently hosted at https://sprkwd.github.io
 
  ## todo
  
